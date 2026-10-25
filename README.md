@@ -1,2 +1,2 @@
 # IT012
-Nop bai thuc hanh IT012
+Nộp bài thực hành các LAB môn IT012
