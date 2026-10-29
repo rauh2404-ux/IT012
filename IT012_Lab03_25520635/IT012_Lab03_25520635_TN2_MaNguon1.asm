@@ -1,4 +1,4 @@
-# Ho va ten: Nguyen Cong Hung;   MSSV: 25520635;   Muc dich: Lam quen voi cac lenh so hoc v‡ thanh ghi luu tru gia tri, khao sat thanh ghi dac biet pc.
+# Ho va ten: Nguyen Cong Hung;   MSSV: 25520635;   Muc dich: Lam quen voi cac lenh so hoc v√† thanh ghi luu tru gia tri, khao sat thanh ghi dac biet pc.
 
 # Ma nguon 1 - nhung buoc dau voi thanh ghi
 .text
