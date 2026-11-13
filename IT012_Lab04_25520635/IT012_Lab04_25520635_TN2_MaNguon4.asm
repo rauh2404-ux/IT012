@@ -1,0 +1,13 @@
+# Ho va ten: Nguyen Cong Hung - MSSV: 25520635 - Muc dich: Xem cach assemble chuyen cac lenh gia thanh lenh that
+
+# Ma nguon 4 – gia lenh nhanh
+.text
+.globl main
+main:
+  addi $t0, $zero, 90
+  addi $t1, $zero, 100
+  blt  $t0, $t1, Nho
+  addi $t2, $zero, 1
+Nho:
+  li   $v0, 10
+  syscall
